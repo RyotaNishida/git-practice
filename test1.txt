@@ -5,5 +5,7 @@ fff
 ff
 追加しました。西田fff
 
+コンフリクトチェック！
 
-oijfoisdjfoisdjfoisdfj
+
+oijfoisdjfコンフリクトチェック！oisdjfoisdfj
